@@ -30,7 +30,7 @@
     <a href="https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="masterpiece.laith-alenooz.tech">View Demo</a>
+    <a href="https://masterpiece.laith-alenooz.tech">View Demo</a>
     ·
     <a href="https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz/issues">Report Bug</a>
     ·
