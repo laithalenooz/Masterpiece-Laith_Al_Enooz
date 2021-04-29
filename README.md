@@ -197,15 +197,15 @@ Project Link: [https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz](https
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/laithalenooz/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
 [contributors-url]: https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/laithalenooz/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
 [forks-url]: https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/laithalenooz/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
 [stars-url]: https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
+[issues-shield]: https://img.shields.io/github/issues/laithalenooz/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
 [issues-url]: https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/laithalenooz/Masterpiece-Laith_Al_Enooz.svg?style=for-the-badge
 [license-url]: https://github.com/laithalenooz/Masterpiece-Laith_Al_Enooz/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/laithalenooz
